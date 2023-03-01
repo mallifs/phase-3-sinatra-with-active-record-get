@@ -6,6 +6,10 @@ gem "sinatra", "~> 2.1"
 
 # An object-relational mapper
 # https://guides.rubyonrails.org/active_record_basics.html
+
+gem 'puma'
+
+
 gem "activerecord", "~> 6.1"
 
 # Configures common Rake tasks for working with Active Record
